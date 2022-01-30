@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 78b3fd9154634ebdb8c8a48960b9a16a, type: 3}
+  m_Name: New Narrative
+  m_EditorClassIdentifier: 
+  NodeLinks:
+  - BaseNodeGUID: 9ef2cc00-c5d5-47f3-8588-697f684592dc
+    PortName: Next
+    TargetNodeGUID: e6d1b3de-2e6b-429a-99f3-518dd8fc5885
+  - BaseNodeGUID: e6d1b3de-2e6b-429a-99f3-518dd8fc5885
+    PortName: Continue
+    TargetNodeGUID: 0c20b5be-7ba0-46a2-b149-dc84e225dc4c
+  - BaseNodeGUID: 0c20b5be-7ba0-46a2-b149-dc84e225dc4c
+    PortName: Whatever
+    TargetNodeGUID: 89686c10-4153-451e-b347-85ca6fd18f22
+  - BaseNodeGUID: 0c20b5be-7ba0-46a2-b149-dc84e225dc4c
+    PortName: Nice to meet you
+    TargetNodeGUID: 9dbd4020-e486-4476-a422-e163dda917cb
+  - BaseNodeGUID: 9dbd4020-e486-4476-a422-e163dda917cb
+    PortName: Option 1
+    TargetNodeGUID: 1aead3f4-90e9-413e-b287-e10da6e947fc
+  - BaseNodeGUID: 89686c10-4153-451e-b347-85ca6fd18f22
+    PortName: Option 1
+    TargetNodeGUID: 1aead3f4-90e9-413e-b287-e10da6e947fc
+  DialogueNodeData:
+  - NodeGUID: e6d1b3de-2e6b-429a-99f3-518dd8fc5885
+    DialogueText: Hello!
+    Position: {x: 234, y: 200}
+  - NodeGUID: 0c20b5be-7ba0-46a2-b149-dc84e225dc4c
+    DialogueText: My name is
+    Position: {x: 473, y: 201}
+  - NodeGUID: 89686c10-4153-451e-b347-85ca6fd18f22
+    DialogueText: Woah, you're mean
+    Position: {x: 788, y: 298}
+  - NodeGUID: 1aead3f4-90e9-413e-b287-e10da6e947fc
+    DialogueText: Anyway, Nice to meet you too
+    Position: {x: 1194, y: 244}
+  - NodeGUID: 9dbd4020-e486-4476-a422-e163dda917cb
+    DialogueText: You seem like a nice person
+    Position: {x: 805, y: 181}
+  ExposedProperties:
+  - PropertyName: Dialogue
+    PropertyValue: New Value
+  - PropertyName: Answer
+    PropertyValue: New Value
+  CommentBlockData: []

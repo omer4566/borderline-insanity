@@ -1,0 +1,47 @@
+{
+	"lines": [{
+		"line1": [
+			"What's up homie?",
+			"If ya forgot your towel",
+			"I brought you one",
+			"The ladies don't like it when you're sweaty"
+		],
+		"line2": [
+			"That's why I love working out with bros ya know?",
+			"It's cause we look at each other",
+			"And here the competition starts!",
+			"Who's gonna sweat more?",
+			"Who's gonna make more push ups",
+			"And who'll get the ladies' gaze"
+		],
+		"line3": [
+			"Btw, my lessons are free",
+			"I see great potential in your future",
+			"So as your bro and trainer, I'll help you",
+			"Ohhhh look at the time! I gotta go! Adios bro mio!"
+		]
+	}],
+
+	"answers1": [{
+			"option1": "You know a lot",
+			"response1" : "Sure am!! after all experience is the best teahcer!! hue hue hue",
+
+			"option2": "Idk, they like it when we're wet",		
+			"response2" : "Are you sure bro? I don't mean bad but how much experience do you have?",
+
+			"option3": "Pass the water bottle please",
+			"response3" : "Sure man"
+
+	}],
+
+	"answers2": [{
+			"option1": "I ain't gonna lose",
+			"response1" : "That's the spirit!! Now DESTROY THEM WEIGHTS!!!",
+
+			"option2": "Pffft this ain't no competition",			
+			"response2" : "Damn bro that's mean. Not cool",
+
+			"option3": "Heh..I'll lose",
+			"response3" : "Don't give up man! fight until the end!! RIP AND TEAR UNTIL IT'S DONE"
+	}]
+}

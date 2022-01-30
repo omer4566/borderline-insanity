@@ -1,0 +1,54 @@
+{
+	"lines": [{
+		"line1": [
+			"Hello, my name is chad",
+			"I love working out and protein!",
+			"Workin out develops your physical and mental form!",
+			"Let's work out! Nothin' beats a good workout!"
+		],
+		"line2": [
+			"But damn bro, you're skin an' bones",
+			"It ain't healthy you know",
+			"My secret ingredient for muscles is...",
+			"Protein! and protein!",
+			"...",
+			"I said protein two times haven't I..?"
+		],
+		"line3": [
+			"Anyways, if ya want to be sucsessful, you gotta train!",
+			"If ya wanna train then I'll be your trainer. Thus our first lesson BEGINS!!!",
+			"As you see, what you'll need the most is PASSION and PASSION",
+			"This time, it was intentional...",
+			"'B..bbut WhY pAssIOn' you ask?? I have the 'Answer'",
+			"Without the PASSION you won't have motivation",
+			"And motivation is the fuel of your actions",
+			"From conquering the world to simply getting out of the bed",
+			"And I, Chad the first! shall train you to become better!!",
+			"Heh, I'm so awsome",
+			"I have to go so I'll meet you next time"
+		]
+	}],
+
+	"answers1": [{
+			"option1": "Yeah sure",
+			"response1" : "Alright then, don't forget to bring a towel!",
+
+			"option2": "I'll pass",		
+			"response2" : "Ahhhhh, that's a shame",
+
+			"option3": "Sorry, next time",
+			"response3" : "Shame, I hope you'll come one day, also bring a towel"
+
+	}],
+
+	"answers2": [{
+			"option1": "PROTEIN",
+			"response1" : "YEAH BRO! PROTEIN!!",
+
+			"option2": "You're kidding?",			
+			"response2" : "There's no need to be mean",
+
+			"option3": "You got the spirit",
+			"response3" : "Hell YEAH! but you gotta too"
+	}]
+}
